@@ -1,22 +1,5 @@
 
 
-
 ## 📄 Description
-
-The code uses `console.log()` to print 3 short messages to the console:
-=======
-
-## 📄 Description
-
-The code uses `console.log()` to print 3 short messages to the console:
-
-
-### How to run the code 
-
-1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
-2. Open your terminal or command prompt.
-3. Navigate to the folder containing the file.
-4. Run the following command:
-
-```bash
-node 0-javascript_is_amazing.js
+This code uses process.argv.
+f237319 (initial commit)
