@@ -5,4 +5,5 @@
 3. Task 2 - reciving arguments using process.argv
 4. task 3 - accessing index elements of process.argv
 5. task 4 - concatinating string inut arguments 
-e204e12 (initial commit)
+6. Task 5 - converting arguments into an integer.
+
