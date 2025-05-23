@@ -1,10 +1,15 @@
-# My First JavaScript Code 🚀
 
-This is my very first JavaScript code that prints a message to the console. It's a simple step in my journey to learn web development and JavaScript.
+
 
 ## 📄 Description
 
-The code uses `console.log()` to print a short message to the console:
+The code uses `console.log()` to print 3 short messages to the console:
+=======
+
+## 📄 Description
+
+The code uses `console.log()` to print 3 short messages to the console:
+
 
 ### How to run the code 
 
