@@ -1,5 +1,5 @@
 
-
-## 📄 Description
-This code uses process.argv.
-f237319 (initial commit)
+# Description
+This code uses process.argv[] to access input
+arguments. 
+a37df85 (initial commit)
